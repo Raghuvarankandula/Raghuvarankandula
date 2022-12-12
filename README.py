@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raghuvarankandula
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DataScience
-- 💞️ I’m looking to collaborate on Data Management
+- 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me kandularaghuvaran@gmail.com
 
 <!---
